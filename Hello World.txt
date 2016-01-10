@@ -1,6 +1,7 @@
-print ("Hello World")
-print ("Hello Everybody")
-print ("Hello")
-print ("Hello my dear friend")
+print ("Hello World");
+print ("Hello Everybody");
+print ("Hello");
+print ("Hello my dear friend");
+Print ("что-нибудь")
 
 
